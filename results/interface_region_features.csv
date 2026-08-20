@@ -1,0 +1,3 @@
+protein,isoform,start,end,sequence,length,net_charge_proxy,positive_fraction,negative_fraction,hydrophobic_fraction,aromatic_fraction,flexible_fraction,mean_hydropathy,sequence_entropy
+RAC1,RAC1B,76,94,VGETYGKDITSRGKDKPIA,19,1,0.211,0.158,0.263,0.053,0.263,-0.947,3.432
+CTNND1,p120-4,607,644,AERYQEAAPNVANNTGPHAASCFGAKKGKDEWFSRGKK,38,3,0.184,0.105,0.316,0.105,0.211,-1.161,3.754

@@ -1,0 +1,3 @@
+priority,gene,protein,uniprot_accession,rationale,focus_region,status
+primary,CTNND1,p120-catenin,O60716,"Direct RAC1B-selective binding; the 19-residue insertion competes for binding","p120 residues 607-644 and RAC1B residues 70-94",selected
+secondary,RAP1GDS1,SmgGDS,P52306,"Recent experimental evidence for stronger RAC1B binding; ARM-repeat comparison partner","ARM-repeat surface and RAC1B residues 70-94",reserve

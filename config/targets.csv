@@ -1,0 +1,5 @@
+gene,isoform_name,role,uniprot_accession,alphafold_query
+PKM,PKM2,positive_control_reference,P14618-1,P14618
+PKM,PKM1,positive_control_comparator,P14618-2,P14618-2
+RAC1,RAC1,discovery_reference,P63000-1,P63000
+RAC1,RAC1B,discovery_comparator,P63000-2,P63000-2

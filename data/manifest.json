@@ -1,0 +1,293 @@
+{
+  "generated_at": "2026-07-21T05:18:13.263505+00:00",
+  "targets": [
+    {
+      "gene": "PKM",
+      "isoform_name": "PKM2",
+      "role": "positive_control_reference",
+      "uniprot_accession": "P14618-1",
+      "alphafold_query": "P14618",
+      "alphafold_entry_id": "AF-P14618-F1",
+      "files": [
+        {
+          "kind": "uniprot_fasta",
+          "path": "data/raw/PKM/PKM2/P14618-1.fasta",
+          "url": "https://rest.uniprot.org/uniprotkb/P14618-1.fasta",
+          "sha256": "12653792df3ecbb01b473de7088cfa3cf33228c318221581d73837e29b2eede8",
+          "bytes": 629,
+          "last_modified": null
+        },
+        {
+          "kind": "alphafold_metadata",
+          "path": "data/raw/PKM/PKM2/P14618.alphafold.json",
+          "url": "https://alphafold.ebi.ac.uk/api/prediction/P14618",
+          "sha256": "7e9bab51c0cc2d32791d6f087cfb38e03b5cd1593d5de66eec53291fd159ce15",
+          "bytes": 2972,
+          "last_modified": null
+        },
+        {
+          "kind": "alphafold_pdb",
+          "path": "data/raw/PKM/PKM2/P14618.pdb",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P14618-F1-model_v6.pdb",
+          "sha256": "5e22348967fe27ba0d93fe6411b7e52e7b5814f8649cede2ae0f8cf62adb04d2",
+          "bytes": 336068,
+          "last_modified": "Thu, 18 Sep 2025 13:34:07 GMT"
+        },
+        {
+          "kind": "alphafold_cif",
+          "path": "data/raw/PKM/PKM2/P14618.cif",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P14618-F1-model_v6.cif",
+          "sha256": "e8169101b5b2f32271675a298adb62ef7a84860374d4f4970e25f8e47090e068",
+          "bytes": 480363,
+          "last_modified": "Thu, 18 Sep 2025 14:02:23 GMT"
+        },
+        {
+          "kind": "alphafold_pae",
+          "path": "data/raw/PKM/PKM2/P14618.pae.json",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P14618-F1-predicted_aligned_error_v6.json",
+          "sha256": "5f35f0c4fb706198404de67ac9f56add2f8357ab9b29179a5bad2df332848c39",
+          "bytes": 581618,
+          "last_modified": "Thu, 18 Sep 2025 16:21:26 GMT"
+        }
+      ]
+    },
+    {
+      "gene": "PKM",
+      "isoform_name": "PKM1",
+      "role": "positive_control_comparator",
+      "uniprot_accession": "P14618-2",
+      "alphafold_query": "P14618-2",
+      "alphafold_entry_id": "AF-P14618-2-F1",
+      "files": [
+        {
+          "kind": "uniprot_fasta",
+          "path": "data/raw/PKM/PKM1/P14618-2.fasta",
+          "url": "https://rest.uniprot.org/uniprotkb/P14618-2.fasta",
+          "sha256": "77cba7baaf1e4f9b4ec3e71ed3db52060049eb92080bb20202dc5e88feab744f",
+          "bytes": 629,
+          "last_modified": null
+        },
+        {
+          "kind": "alphafold_metadata",
+          "path": "data/raw/PKM/PKM1/P14618-2.alphafold.json",
+          "url": "https://alphafold.ebi.ac.uk/api/prediction/P14618-2",
+          "sha256": "7f3695025924634ac410679566fdb599e43adcebfa9df1406ac461aab56df0bd",
+          "bytes": 2701,
+          "last_modified": null
+        },
+        {
+          "kind": "alphafold_pdb",
+          "path": "data/raw/PKM/PKM1/P14618-2.pdb",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P14618-2-F1-model_v6.pdb",
+          "sha256": "db458875092f741a0439e1e3d77f918bab0dddb57e9f7a02f31929d9b86bc8ab",
+          "bytes": 336473,
+          "last_modified": "Thu, 18 Sep 2025 14:26:46 GMT"
+        },
+        {
+          "kind": "alphafold_cif",
+          "path": "data/raw/PKM/PKM1/P14618-2.cif",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P14618-2-F1-model_v6.cif",
+          "sha256": "546be02261ffbe0a3fb23a563e3243d385caa1089aa9857ef175b75120696c63",
+          "bytes": 488558,
+          "last_modified": "Thu, 18 Sep 2025 12:36:27 GMT"
+        },
+        {
+          "kind": "alphafold_pae",
+          "path": "data/raw/PKM/PKM1/P14618-2.pae.json",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P14618-2-F1-predicted_aligned_error_v6.json",
+          "sha256": "1162d0bb1cd06a529d3ceffebf6a82d85a33fe4c29b73074faec0eef1d2513e2",
+          "bytes": 587696,
+          "last_modified": "Thu, 18 Sep 2025 15:09:33 GMT"
+        }
+      ]
+    },
+    {
+      "gene": "RAC1",
+      "isoform_name": "RAC1",
+      "role": "discovery_reference",
+      "uniprot_accession": "P63000-1",
+      "alphafold_query": "P63000",
+      "alphafold_entry_id": "AF-P63000-F1",
+      "files": [
+        {
+          "kind": "uniprot_fasta",
+          "path": "data/raw/RAC1/RAC1/P63000-1.fasta",
+          "url": "https://rest.uniprot.org/uniprotkb/P63000-1.fasta",
+          "sha256": "bf4591c247b181c7f739e5ad37884a210bc3740d0690eb270c16b4e2c071075e",
+          "bytes": 308,
+          "last_modified": null
+        },
+        {
+          "kind": "alphafold_metadata",
+          "path": "data/raw/RAC1/RAC1/P63000.alphafold.json",
+          "url": "https://alphafold.ebi.ac.uk/api/prediction/P63000",
+          "sha256": "539d7a254734137cdf8befb29689f73079d688eaa0a826c04e830acf828dff5a",
+          "bytes": 2317,
+          "last_modified": null
+        },
+        {
+          "kind": "alphafold_pdb",
+          "path": "data/raw/RAC1/RAC1/P63000.pdb",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P63000-F1-model_v6.pdb",
+          "sha256": "187457cb6620d20ac3f60091aa39f5c53d2735b9e4c3bd132c7e238b9462335e",
+          "bytes": 127169,
+          "last_modified": "Thu, 18 Sep 2025 15:03:30 GMT"
+        },
+        {
+          "kind": "alphafold_cif",
+          "path": "data/raw/RAC1/RAC1/P63000.cif",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P63000-F1-model_v6.cif",
+          "sha256": "1655fbacbcf6b0ce8424d81638f000d57f92526c1be08f99a3df08971fc06dc5",
+          "bytes": 186753,
+          "last_modified": "Thu, 18 Sep 2025 12:25:38 GMT"
+        },
+        {
+          "kind": "alphafold_pae",
+          "path": "data/raw/RAC1/RAC1/P63000.pae.json",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P63000-F1-predicted_aligned_error_v6.json",
+          "sha256": "7aabe3d99de32310da6bf4d4b4209c5370c5fe22acc3647b60fece331cea9da2",
+          "bytes": 79811,
+          "last_modified": "Thu, 18 Sep 2025 14:11:26 GMT"
+        }
+      ]
+    },
+    {
+      "gene": "RAC1",
+      "isoform_name": "RAC1B",
+      "role": "discovery_comparator",
+      "uniprot_accession": "P63000-2",
+      "alphafold_query": "P63000-2",
+      "alphafold_entry_id": "AF-P63000-2-F1",
+      "files": [
+        {
+          "kind": "uniprot_fasta",
+          "path": "data/raw/RAC1/RAC1B/P63000-2.fasta",
+          "url": "https://rest.uniprot.org/uniprotkb/P63000-2.fasta",
+          "sha256": "8c4dd8199834cc29168c857fb44d96dc52a7766afef1067c08a07d2a90b6a4ff",
+          "bytes": 327,
+          "last_modified": null
+        },
+        {
+          "kind": "alphafold_metadata",
+          "path": "data/raw/RAC1/RAC1B/P63000-2.alphafold.json",
+          "url": "https://alphafold.ebi.ac.uk/api/prediction/P63000-2",
+          "sha256": "f90f77b852615c19c8b6d994e55a1cde1c944bc902c59603c3622a506570b64a",
+          "bytes": 2086,
+          "last_modified": null
+        },
+        {
+          "kind": "alphafold_pdb",
+          "path": "data/raw/RAC1/RAC1B/P63000-2.pdb",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P63000-2-F1-model_v6.pdb",
+          "sha256": "f9870eef6b1ea367568edee6d1c64bcdc96affdb348ddba1370368e54a8e03c2",
+          "bytes": 138833,
+          "last_modified": "Thu, 18 Sep 2025 15:14:11 GMT"
+        },
+        {
+          "kind": "alphafold_cif",
+          "path": "data/raw/RAC1/RAC1B/P63000-2.cif",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P63000-2-F1-model_v6.cif",
+          "sha256": "9752042273389eaee5ee6559e434285a50e2df929c59841493c1df2fcd98517e",
+          "bytes": 205879,
+          "last_modified": "Thu, 18 Sep 2025 14:51:57 GMT"
+        },
+        {
+          "kind": "alphafold_pae",
+          "path": "data/raw/RAC1/RAC1B/P63000-2.pae.json",
+          "url": "https://alphafold.ebi.ac.uk/files/AF-P63000-2-F1-predicted_aligned_error_v6.json",
+          "sha256": "af8be19c376255feaad4b68b72d3b2137d2a232ab85ba004ff5869da71be5bc2",
+          "bytes": 101478,
+          "last_modified": "Thu, 18 Sep 2025 13:12:19 GMT"
+        }
+      ]
+    }
+  ],
+  "experimental_structures": [
+    {
+      "gene": "PKM",
+      "isoform_name": "PKM1",
+      "pdb_id": "3SRF",
+      "state": "experimental",
+      "purpose": "positive_control",
+      "files": [
+        {
+          "kind": "experimental_pdb",
+          "path": "data/raw/experimental/3SRF.pdb",
+          "url": "https://files.rcsb.org/download/3SRF.pdb",
+          "sha256": "a9dfd8bd865b01b92da1ede6d978e117b2955fe938b5696b5727216b48dd5be5",
+          "bytes": 2802519,
+          "last_modified": null
+        }
+      ]
+    },
+    {
+      "gene": "PKM",
+      "isoform_name": "PKM2",
+      "pdb_id": "3U2Z",
+      "state": "activator_bound",
+      "purpose": "positive_control",
+      "files": [
+        {
+          "kind": "experimental_pdb",
+          "path": "data/raw/experimental/3U2Z.pdb",
+          "url": "https://files.rcsb.org/download/3U2Z.pdb",
+          "sha256": "3c546870737505d33775bf1920be03311cd33990665a59a96643135f898d1a2c",
+          "bytes": 2680776,
+          "last_modified": null
+        }
+      ]
+    },
+    {
+      "gene": "RAC1",
+      "isoform_name": "RAC1",
+      "pdb_id": "8S1N",
+      "state": "GDP",
+      "purpose": "reference",
+      "files": [
+        {
+          "kind": "experimental_pdb",
+          "path": "data/raw/experimental/8S1N.pdb",
+          "url": "https://files.rcsb.org/download/8S1N.pdb",
+          "sha256": "82d7801c39814fbab23d498a4f832a29cf6d00ae832af0edef339c3340eacc0c",
+          "bytes": 271674,
+          "last_modified": null
+        }
+      ]
+    },
+    {
+      "gene": "RAC1",
+      "isoform_name": "RAC1B",
+      "pdb_id": "1RYF",
+      "state": "GDP",
+      "purpose": "discovery_validation",
+      "files": [
+        {
+          "kind": "experimental_pdb",
+          "path": "data/raw/experimental/1RYF.pdb",
+          "url": "https://files.rcsb.org/download/1RYF.pdb",
+          "sha256": "b3e46f5d7cbb089e544d0e68d6f125c75a19859a786e747ac0ab65b8e96acc4e",
+          "bytes": 293463,
+          "last_modified": null
+        }
+      ]
+    },
+    {
+      "gene": "RAC1",
+      "isoform_name": "RAC1B",
+      "pdb_id": "1RYH",
+      "state": "GppNHp",
+      "purpose": "discovery_validation",
+      "files": [
+        {
+          "kind": "experimental_pdb",
+          "path": "data/raw/experimental/1RYH.pdb",
+          "url": "https://files.rcsb.org/download/1RYH.pdb",
+          "sha256": "ac774cca65fb13a6400d3ab856df0917eabd83a1ad15cf7e44ec7b1e5de32885",
+          "bytes": 296379,
+          "last_modified": null
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,14 @@
+gene,reference_isoform,reference_pocket,comparator_isoform,comparator_pocket,residue_jaccard,reference_probability,comparator_probability,reference_touches_splice,comparator_touches_splice
+PKM,PKM2,pocket1,PKM1,pocket1,0.78,0.931,0.94,False,False
+PKM,PKM2,pocket2,PKM1,pocket2,0.636,0.69,0.584,False,False
+PKM,PKM2,pocket3,PKM1,pocket3,0.87,0.341,0.363,True,True
+PKM,PKM2,pocket4,PKM1,pocket4,0.625,0.156,0.125,False,False
+PKM,PKM2,pocket5,PKM1,pocket6,0.6,0.073,0.038,True,True
+PKM,PKM2,pocket6,PKM1,pocket8,0.636,0.037,0.022,True,True
+PKM,PKM2,pocket7,PKM1,pocket7,1.0,0.033,0.028,False,False
+PKM,PKM2,pocket8,PKM1,,0.0,0.033,,False,
+PKM,PKM2,pocket9,PKM1,pocket5,0.778,0.026,0.097,True,True
+PKM,PKM2,pocket10,PKM1,,0.067,0.018,,False,
+PKM,PKM2,pocket11,PKM1,,0.045,0.004,,False,
+RAC1,RAC1,pocket1,RAC1B,pocket1,0.5,0.266,0.498,False,False
+RAC1,RAC1,pocket2,RAC1B,pocket1,0.522,0.2,0.498,False,False

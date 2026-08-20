@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+tools/**
+!tools/.gitkeep
+
+data/raw/**
+!data/raw/.gitkeep
+!data/raw/README.md
+data/alphafold_server/**
+!data/alphafold_server/README.md
+results/p2rank/**

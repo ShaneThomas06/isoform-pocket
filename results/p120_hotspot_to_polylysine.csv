@@ -1,0 +1,15 @@
+ctnnd1_residue,region,mean_nearest_distance_to_622_628_angstrom,minimum_distance_angstrom,maximum_distance_angstrom,mean_af3_residue_confidence
+395,candidate_surface,74.794,72.588,78.146,78.99
+430,candidate_surface,73.02,71.086,75.195,88.91
+433,candidate_surface,69.216,67.202,71.74,89.31
+434,candidate_surface,70.977,68.813,73.91,88.36
+437,candidate_surface,66.812,64.482,70.073,86.4
+474,candidate_surface,63.731,61.773,65.885,89.75
+477,candidate_surface,60.105,58.076,62.529,90.05
+622,polylysine_motif,,,,37.18
+623,polylysine_motif,,,,38.74
+624,polylysine_motif,,,,36.61
+625,polylysine_motif,,,,37.17
+626,polylysine_motif,,,,36.66
+627,polylysine_motif,,,,37.01
+628,polylysine_motif,,,,36.23

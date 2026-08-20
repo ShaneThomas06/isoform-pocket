@@ -1,0 +1,7 @@
+gene,isoform_name,region_name,start,end,interpretation,mean_plddt,min_plddt,fraction_ge_70,observed
+PKM,PKM2,alternative_exon_region,389,433,fixed_structure_candidate,98.37,96.94,1.0,45
+PKM,PKM1,alternative_exon_region,389,433,fixed_structure_candidate,94.63,83.75,1.0,45
+RAC1,RAC1,insertion_site_neighborhood,66,85,comparison_region,97.88,94.69,1.0,20
+RAC1,RAC1B,upstream_flank,66,75,context,78.53,43.38,0.7,10
+RAC1,RAC1B,inserted_segment,76,94,flexibility_expected,45.27,35.34,0.053,19
+RAC1,RAC1B,downstream_flank,95,104,fixed_structure_candidate,97.7,91.19,1.0,10

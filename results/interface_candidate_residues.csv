@@ -1,0 +1,10 @@
+isoform,position,amino_acid,suggested_substitution,priority_score,rationale,confidence_warning
+RAC1B,83,D,A,3.333,tests recognition of the p120 polybasic loop,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."
+RAC1B,78,E,A,3.2,tests recognition of the p120 polybasic loop,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."
+RAC1B,90,D,A,3.2,tests recognition of the p120 polybasic loop,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."
+RAC1B,80,Y,A,2.667,tests a possible transient aromatic anchor,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."
+RAC1B,82,K,A,2.25,tests the insertion's basic cluster,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."
+RAC1B,87,R,A,2.25,tests the insertion's basic cluster,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."
+RAC1B,89,K,A,2.143,tests the insertion's basic cluster,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."
+RAC1B,91,K,A,2.143,tests the insertion's basic cluster,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."
+RAC1B,92,P,A,1.583,tests insertion conformational preference,"Low insertion pLDDT: hypothesis-generating, not a fixed interface."

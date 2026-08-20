@@ -1,0 +1,3 @@
+protein,isoform,uniprot_accession,start,end,sequence,numbering,evidence,source
+RAC1,RAC1B,P63000-2,76,94,VGETYGKDITSRGKDKPIA,"UniProt isoform coordinates","Inserted sequence directly implicated in p120-catenin binding","https://pmc.ncbi.nlm.nih.gov/articles/PMC2885194/"
+CTNND1,p120-4,O60716,607,644,AERYQEAAPNVANNTGPHAASCFGAKKGKDEWFSRGKK,"Canonical O60716 coordinates retained for isoform 4","Flexible region containing the polylysine motif proposed to participate in recognition","https://pmc.ncbi.nlm.nih.gov/articles/PMC2885194/"

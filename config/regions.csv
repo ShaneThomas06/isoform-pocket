@@ -1,0 +1,7 @@
+gene,isoform_name,region_name,start,end,interpretation
+PKM,PKM2,alternative_exon_region,389,433,fixed_structure_candidate
+PKM,PKM1,alternative_exon_region,389,433,fixed_structure_candidate
+RAC1,RAC1,insertion_site_neighborhood,66,85,comparison_region
+RAC1,RAC1B,upstream_flank,66,75,context
+RAC1,RAC1B,inserted_segment,76,94,flexibility_expected
+RAC1,RAC1B,downstream_flank,95,104,fixed_structure_candidate

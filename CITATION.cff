@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "IsoformPocket: uncertainty-aware structural analysis of RAC1B"
+type: software
+authors:
+  - family-names: Thomas
+    given-names: Shane
+version: 1.0.0
+date-released: 2026-08-20
+license: MIT
+keywords:
+  - AlphaFold
+  - bioinformatics
+  - alternative splicing
+  - protein structure
+  - RAC1B
+  - CTNND1
+abstract: >-
+  A reproducible structural analysis of isoform-dependent pockets and protein
+  interaction surfaces using PKM1/PKM2 as a positive control and RAC1/RAC1B as
+  the discovery system. Multi-seed AlphaFold complex predictions are evaluated
+  against independent pocket detectors and experimental structures.

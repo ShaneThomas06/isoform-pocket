@@ -1,0 +1,6 @@
+gene,isoform_name,pdb_id,state,purpose
+PKM,PKM1,3SRF,experimental,positive_control
+PKM,PKM2,3U2Z,activator_bound,positive_control
+RAC1,RAC1,8S1N,GDP,reference
+RAC1,RAC1B,1RYF,GDP,discovery_validation
+RAC1,RAC1B,1RYH,GppNHp,discovery_validation
