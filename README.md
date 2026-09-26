@@ -61,7 +61,8 @@ the relevant recognition element is disordered.
 ```text
 config/        Target, region, partner, and experimental-structure definitions
 data/          Local source data and download manifests
-scripts/       Download, analysis, validation, and figure-generation code
+src/isoform_pocket/  Reusable analysis implementation
+scripts/       Thin compatibility entry points
 tests/         Unit tests for sequence, geometry, and AF3 helper functions
 docs/          Study design and phase-specific decisions
 results/       Tables, reports, and publication-style figures
@@ -180,3 +181,8 @@ overlap the E-cadherin-binding groove and may confound interpretation.
 
 Code is released under the MIT License. Downloaded data retain their original
 licenses and terms of use.
+
+## Clean-clone smoke checks
+
+See [reproducibility instructions](docs/reproducibility.md) for the minimal
+installation, tests, linting, and command checks used in CI.
