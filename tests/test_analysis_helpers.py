@@ -2,9 +2,9 @@ import unittest
 
 import numpy as np
 
-from scripts.analyze_inputs import describe_change
-from scripts.analyze_interface_features import sequence_features
-from scripts.compare_structures import kabsch
+from isoform_pocket.analyze_inputs import describe_change
+from isoform_pocket.analyze_interface_features import sequence_features
+from isoform_pocket.compare_structures import kabsch
 
 
 class DescribeChangeTests(unittest.TestCase):

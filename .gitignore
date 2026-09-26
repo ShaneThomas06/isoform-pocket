@@ -11,3 +11,8 @@ data/raw/**
 data/alphafold_server/**
 !data/alphafold_server/README.md
 results/p2rank/**
+
+*.egg-info/
+build/
+dist/
+.ruff_cache/

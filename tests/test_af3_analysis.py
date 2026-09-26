@@ -2,12 +2,11 @@
 
 from __future__ import annotations
 
-import tempfile
 import unittest
 from pathlib import Path
 
-from scripts.analyze_af3_multiseed import mean_matrix, model_number
-from scripts.map_p120_hotspot import distance, model_identity
+from isoform_pocket.analyze_af3_multiseed import mean_matrix, model_number
+from isoform_pocket.map_p120_hotspot import distance, model_identity
 
 
 class AlphaFoldAnalysisHelperTests(unittest.TestCase):
